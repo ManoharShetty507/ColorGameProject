@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: color-game
-          image: manoharshetty507/color-game:v2
+          image: manoharshetty507/color-game:v1
           ports:
             - containerPort: 8080
 ---
