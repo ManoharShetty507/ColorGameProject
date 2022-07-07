@@ -15,7 +15,7 @@ spec:
         app: color-game
     spec:
       containers:
-        - name: Color-Game
+        - name: color-game
           image: manoharshetty507/color-game:v2
           ports:
             - containerPort: 3000
